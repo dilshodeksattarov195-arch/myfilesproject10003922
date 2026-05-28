@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereetch",
+        "uuid": 13479914,
+        "checksum": "4w3ilo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
